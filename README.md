@@ -49,3 +49,11 @@ This repository contains the full Unity project source code. To run it, you will
 2.  Open Unity Hub.
 3.  Click "Add project from disk" and select the cloned repository folder.
 4.  The project should now open in the Unity Editor, ready to explore and run.
+
+---
+
+## Credits & License
+- Project source code is licensed under the [MIT License](LICENSE).
+- Unity Editor and all learning assets are © Unity Technologies and used under the Unity Terms of Service.  
+  Learn more: [Unity Terms of Service](https://unity.com/legal/terms-of-service).
+
