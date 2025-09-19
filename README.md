@@ -37,7 +37,7 @@ This project was built using a standard set of tools for modern game development
 
 This project marks the successful completion of all required missions and assessments in the Unity Essentials Pathway. I was awarded the official badge from Unity Technologies for demonstrating foundational skills in the Unity Engine.
 
-**[View My Official Badge on Credly](https://www.credly.com/earned/badge/743dd13d-0897-4f73-a435-c7952ed92bc0)**
+**[View My Official Badge on Credly](https://www.credly.com/badges/742dd13d-0897-4f73-a435-c7952ed929c0/public_url)**
 
 ---
 
